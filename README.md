@@ -3,7 +3,7 @@
 ### PROJECT DESCRIPTION
 This data analytics project involves a detailed examination of a large dataset containing sales, pricing, and engagement metrics of online courses from a learning platform. The purpose of the analysis is to extract actionable insights that will help the business optimize course offerings, improve content strategy, and increase overall profitability.
 
-The dataset includes more than 6,000 individual course records across various subjects, levels, and price points. Key metrics include number of subscribers, course duration, course price, rating, and publishing timestamp, among others.
+The dataset includes individual course records across various subjects, levels, and price points. Key metrics include number of subscribers, course duration, course price, rating, and publishing timestamp, among others.
 
 As a Data Analyst, my responsibility is to clean, transform, analyze, and visualize the data in Excel, and provide strategic business recommendations to drive growth and mitigate risks.
 
