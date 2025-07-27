@@ -23,7 +23,7 @@ As a Data Analyst, my responsibility is to clean, transform, analyze, and visual
   ### STEP 1: DATA COLLECTION AND EXPLORATION
   ##### TOOLS: EXCEL
   
-  - Imported and combined multiple Excel sheets (over 6,000 rows).
+  - Imported and combined multiple Excel sheets (over 6,000 rows) through Data Consolidation.
   - Verified dataset completeness, format types, and inconsistencies
   - Examined for column headers, null values, data types (numeric, date, text).
   - Explore and understand the structure and scope of the dataset.
