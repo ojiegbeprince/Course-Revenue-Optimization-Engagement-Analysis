@@ -12,12 +12,7 @@ As a Data Analyst, my responsibility is to clean, transform, analyze, and visual
 2. How does the average content duration/price/number of students vary across different subjects?
 3. How many courses are free and paid for each subject?
 4. What is the average price of web development courses at different levels?
-5. What are the 20 most popular courses? Also, include the following information:
-- Their level
-- Whether they are free or paid
-- Whether any are free beginner courses,
-- and the duration of the courses.
-6. Does course duration impact the price of the course?
+5. Does course duration impact the price of the course?
 
   ## PROCESSES
   ### STEP 1: DATA COLLECTION AND EXPLORATION
