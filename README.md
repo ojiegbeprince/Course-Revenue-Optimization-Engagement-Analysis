@@ -1,11 +1,10 @@
-## COURSE SALES PERFORMANCE: USING EXCEL AND TABLEAU TO ANALYSE AND CREATE VISUALIZATIONS
+## Course Revenue Optimization & Engagement Analysis
+#### Leveraging Excel Analytics to Drive Strategic Course Monetization for an EdTech Platform
 
 ### PROJECT DESCRIPTION
-This data analytics project involves a detailed examination of a large dataset containing sales, pricing, and engagement metrics of online courses from a learning platform. The purpose of the analysis is to extract actionable insights that will help the business optimize course offerings, improve content strategy, and increase overall profitability.
+LearnX is a rapidly growing EdTech company founded in 2019 with a mission to democratize high-quality online learning for professionals, students, and lifelong learners worldwide. With a course catalog exceeding 6,000+ digital offerings, the platform provides accessible, affordable education across subjects like Web Development, Business Finance, Graphic Design, and Musical Instruments.
 
-The dataset includes individual course records across various subjects, levels, and price points. Key metrics include number of subscribers, course duration, course price, rating, and publishing timestamp, among others.
-
-As a Data Analyst, my responsibility is to clean, transform, analyze, and visualize the data in Excel, and provide strategic business recommendations to drive growth and mitigate risks.
+The company operates on a freemium-to-premium model, where beginner-level courses are free to drive engagement and platform onboarding, while intermediate to advanced content is monetized via subscription and one-time pricing tiers.
 
 ### PROJECT QUESTIONS
 1. What is the total number of subscribers in each subject?
@@ -25,14 +24,14 @@ As a Data Analyst, my responsibility is to clean, transform, analyze, and visual
 
 
  ### STEP 2: DATA CLEANING AND TRANSFORMATION
- ##### TOOLS: EXCEL (POWER QUERY)
+ ##### TOOLS: EXCEL
  
  - Removed duplicates using Excel.
  - Filtered and removed rows with missing critical values.
  - Created helper columns
  - Ensure the dataset is consistent, error-free, and analysis-ready.
 
-### STEP 3: ANALYZE (EXPLORATORY ANALYSIS)
+### STEP 3: ANALYSIS (EXPLORATORY ANALYSIS)
 ##### TOOLS: EXCEL
 
 - Having a deeper delve by using Descriptive Statistics to spot errors  not obvious and have a comprehensive idea about the data set.
@@ -63,7 +62,10 @@ Communicate findings with clarity using charts, summaries, and narratives.
 
 - Popular beginner-level free courses
 
-### STEP 5. SHARE (INSIGHTS AND  RECOMMENDATIONS)
+
+### EXECUTIVE SUMMARY
+
+### STEP 5. SHARE (INSIGHTS AND RECOMMENDATIONS)
 
 Suggest strategies and actions based on insights to guide stakeholders which includes the following;
 
