@@ -1,5 +1,5 @@
 ## Course Revenue Optimization & Engagement Analysis
-#### Leveraging Excel Analytics to Drive Strategic Course Monetization for an EdTech Platform
+Leveraging Excel Analytics to Drive Strategic Course Monetization for an EdTech Platform
 
 ### PROJECT DESCRIPTION
 LearnX is a rapidly growing EdTech company founded in 2019 with a mission to democratize high-quality online learning for professionals, students, and lifelong learners worldwide. With a course catalog exceeding 6,000+ digital offerings, the platform provides accessible, affordable education across subjects like Web Development, Business Finance, Graphic Design, and Musical Instruments.
