@@ -7,11 +7,15 @@ LearnX is a rapidly growing EdTech company founded in 2019 with a mission to dem
 The company operates on a freemium-to-premium model, where beginner-level courses are free to drive engagement and platform onboarding, while intermediate to advanced content is monetized via subscription and one-time pricing tiers.
 
 ### PROJECT QUESTIONS
-1. What is the total number of subscribers in each subject?
-2. How does the average content duration/price/number of students vary across different subjects?
-3. How many courses are free and paid for each subject?
-4. What is the average price of web development courses at different levels?
-5. Does course duration impact the price of the course?
+1. Which course subjects generate the highest engagement (by subscriber count)?
+
+2. How do average price, content duration, and enrollment vary across subjects?
+
+3. What is the distribution of free vs paid courses by subject area?
+
+4. What are the average price points for web development courses by difficulty level?
+
+5. Does course duration have a measurable effect on course pricing?
 
   ## PROCESSES
   ### STEP 1: DATA COLLECTION AND EXPLORATION
