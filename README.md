@@ -1,12 +1,34 @@
 ## Course Revenue Optimization & Engagement Analysis
+---
 Leveraging Excel Analytics to Drive Strategic Course Monetization for an EdTech Platform
 
 ### PROJECT DESCRIPTION
-LearnX is a rapidly growing EdTech company founded in 2019 with a mission to democratize high-quality online learning for professionals, students, and lifelong learners worldwide. With a course catalog exceeding 6,000+ digital offerings, the platform provides accessible, affordable education across subjects like Web Development, Business Finance, Graphic Design, and Musical Instruments.
+---
+WhiteHat Academy is a rapidly growing EdTech company founded in 2019 with a mission to democratize high-quality online learning for professionals, students, and lifelong learners worldwide. With a course catalog exceeding 6,000+ digital offerings, the platform provides accessible, affordable education across subjects like Web Development, Business Finance, Graphic Design, and Musical Instruments.
 
-The company operates on a freemium-to-premium model, where beginner-level courses are free to drive engagement and platform onboarding, while intermediate to advanced content is monetized via subscription and one-time pricing tiers.
+As competition in the digital learning space increases, WhiteHat is under strategic pressure to:
+
+- Optimize pricing and packaging for different course levels
+
+- Boost learner engagement and retention
+
+- Prioritize investment in top-performing subjects
+
+- Convert free users into paying customers
+  
+To support these goals, WhiteHat Academy relies on data analysts to unlock insights from learner behavior, course performance, and market trends — ensuring the platform stays competitive while delivering meaningful learning outcomes
+
+**Insights and recommendations are provided on the following key areas**:
+
+- Expand beginner-focused funnels.
+ 
+- Invest in intermediate-to-advanced content in popular subjects.
+  
+- Better align pricing strategies with content length and learner expectations.
+
 
 ### PROJECT QUESTIONS
+---
 1. Which course subjects generate the highest engagement (by subscriber count)?
 
 2. How do average price, content duration, and enrollment vary across subjects?
@@ -14,60 +36,70 @@ The company operates on a freemium-to-premium model, where beginner-level course
 3. What is the distribution of free vs paid courses by subject area?
 
 4. What are the average price points for web development courses by difficulty level?
+   
+5. Which 20 courses are the most popular? What are their shared characteristics?
+   
+6. Does course duration have a measurable effect on course pricing?
 
-5. Does course duration have a measurable effect on course pricing?
+### DATA STRUCTURE
+---
 
-  ## PROCESSES
-  ### STEP 1: DATA COLLECTION AND EXPLORATION
-  ##### TOOLS: EXCEL
-  
-  - Imported and combined multiple Excel sheets through a process called Data onsolidation.
-  - Verified dataset completeness, format types, and inconsistencies.
-  - Examined for column headers, null values, data types (numeric, date, text).
-  - Explore and understand the structure and scope of the dataset.
-
-
- ### STEP 2: DATA CLEANING AND TRANSFORMATION
- ##### TOOLS: EXCEL
- 
- - Removed duplicates using Excel.
- - Filtered and removed rows with missing critical values.
- - Created helper columns
- - Ensure the dataset is consistent, error-free, and analysis-ready.
-
-### STEP 3: ANALYSIS (EXPLORATORY ANALYSIS)
-##### TOOLS: EXCEL
-
-- Having a deeper delve by using Descriptive Statistics to spot errors  not obvious and have a comprehensive idea about the data set.
-- Defined relationship between tables by using pivot tables.
-- Answered business questions using calculations, logic, and aggregation.
-
-  
-### STEP 4: DATA VISUALIZATION 
-##### TOOLS: TABLEAU
-
-Communicate findings with clarity using charts, summaries, and narratives.
-
-1. Created visualizations:
-
-- Bar charts for subscriber totals by subject.
-
-- Clustered column charts for average values by subject.
-
-- Pie charts for free vs paid distribution.
-
-- Scatter plot for price vs duration.
-
-2. Highlighted:
-
-- Top-performing subjects
-
-- Price sensitivity
-
-- Popular beginner-level free courses
 
 
 ### EXECUTIVE SUMMARY
+---
+##### OVERVIEW FINDINGS
+
+This analysis uncovered critical patterns in learner behavior, content consumption, and pricing sensitivity across various subjects. Web Development and Business Finance emerged as top-performing categories, while beginner-level content dominates in terms of reach and engagement.
+
+While most successful courses are either free or priced below $100, a substantial share of revenue potential lies in optimizing course length, packaging, and progression paths.
+
+Insights and recommendations are provided on the following key area as the findings suggest a clear opportunity for the business to:
+
+### Expand beginner-focused funnels: 
+There is a strong demand for introductory contents (Beginner courses) and 80% of top 20 most popular courses are beginner-level. So, Creating more high-quality beginner courses and bundle them into learning paths to convert learners into long-term customers can help the WhiteHat as an EdTech company attract large enrollment. Also, the dataset shows that Beginner-level courses make up a large portion of:
+
+- Free courses (used as a lead generators in EdTech companiies).
+
+- High-subscriber counts
+
+- Shorter content durations
+
+By optimizing and expanding beginner-level offerings (especially in popular subjects like Web Development and Business Finance), WhiteHat Academy can grow its user base (build brand trust), improve course completion rates, and upsell to premium paths
+
+### Invest in intermediate-to-advanced content in popular subjects:
+From the dataset, it is observed that Intermediate and Expert courses are often paid. Subjects like Web Development and Graphic Design show high enrollment and engagement. However, there's an imbalance — not enough advanced content in high-demand areas know fully well that these courses offer higher perceived value. Users who complete beginner courses often look for more advanced content and Intermediate/expert learners are more likely to pay for upskilling. 
+
+Filling gaps in higher-level content within in-demand subjects allows WhiteHat Academy to capture a broader learner journey, increase lifetime value, and boost premium course sales.
+
+It also enables pathway building, where users can follow a structured learning plan from beginner to expert — an attractive feature for corporate learning and certifications.
+
+
+ ### Better align pricing strategies with content length and learner expectations:
+Analysis of this dataset shows that price does not always correlate logically with content duration or difficulty (Level). Some long or intermediate-level courses are underpriced or even free whereas others are short, beginner-level courses are overpriced for their value. Pricing should reflect not just duration, but value, subject matter, and level. Consider tiered pricing based on content length and depth.
+
+
+### Why It’s Highlighted: 
+- Inconsistent pricing damages user trust and conversion.
+
+- Perceived course value is tied closely to length, level, and subject.
+
+- Platforms like Coursera, Udemy, and LinkedIn Learning use tiered pricing based on these very factors.
+
+By standardizing pricing tiers — e.g., based on duration and level — WhiteHat Academy can optimize perceived value, reduce drop-offs, and increase conversions.
+
+Example:
+
+Beginner (free or low-cost)
+
+Intermediate (mid-range pricing)
+
+Expert (premium pricing, maybe with certification)
+
+This would also benefit B2B (Business-to-Business) pricing models, where companies want to pay based on content depth and duration.
+
+
+An interactive dashboard can be downloaded [Here](https://public.tableau.com/authoring/CourseRevenueOptimizationEngagementAnalysis/Dashboard1#1)
 
 ### STEP 5. SHARE (INSIGHTS AND RECOMMENDATIONS)
 
