@@ -52,7 +52,11 @@ To support these goals, WhiteHat Academy relies on data analysts to unlock insig
 
 This analysis uncovered critical patterns in learner behavior, content consumption, and pricing sensitivity across various subjects. Web Development and Business Finance emerged as top-performing categories, while beginner-level content dominates in terms of reach and engagement.
 
-While most successful courses are either free or priced below $100, a substantial share of revenue potential lies in optimizing course length, packaging, and progression paths.
+While most successful courses are either free or priced below $100, a substantial share of revenue potential lies in optimizing course length, packaging, and progression paths. Below is the overview page from the Tableau Dashboard and more examples are included throughout the report
+
+
+https://github.com/ojiegbeprince/Course-Revenue-Optimization-Engagement-Analysis/blob/main/COURSE%20REVENUE%20OPTIMIZATION%20%26%20ENGAGEMENT%20ANALYSIS.twb
+
 
 Insights and recommendations are provided on the following key area as the findings suggest a clear opportunity for the business to:
 
