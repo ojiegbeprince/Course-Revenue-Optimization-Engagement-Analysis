@@ -1,6 +1,6 @@
 ## Course Revenue Optimization & Engagement Analysis
 ---
-Leveraging Excel Analytics to Drive Strategic Course Monetization for an EdTech Platform
+Leveraging Excel Analytics to Drive Strategic Course Monetization for WhiteHat academy as an EdTech Platform
 
 ### PROJECT DESCRIPTION
 ---
@@ -57,6 +57,7 @@ While most successful courses are either free or priced below $100, a substantia
 ---
 <img width="1499" height="1199" alt="Image" src="https://github.com/user-attachments/assets/95ccc562-b761-48be-8e34-ee9f50fa4066" />
 
+---
 Meanwhile, insights and recommendations are provided on the following key area as the findings suggest a clear opportunity for the business to;
 
 ### 1. Expand beginner-focused funnels: 
