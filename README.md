@@ -4,9 +4,9 @@ Leveraging Excel Analytics to Drive Strategic Course Monetization for an EdTech 
 
 ### PROJECT DESCRIPTION
 ---
-WhiteHat Academy is a rapidly growing EdTech company founded in 2019 with a mission to democratize high-quality online learning for professionals, students, and lifelong learners worldwide. With a course catalog exceeding 6,000+ digital offerings, the platform provides accessible, affordable education across subjects like Web Development, Business Finance, Graphic Design, and Musical Instruments.
+WhiteHat Academy is a rapidly growing EdTech company founded in 2019 with a mission to democratize high-quality online learning for professionals, students, and lifelong learners worldwide. With a course catalog exceeding 6,000+ digital offerings, the platform provides accessible, affordable education across subjects like Web Development, Business Finance, Graphic Design, and Musical Instruments. WhiteHat Academy employs a hybrid pricing strategy. While certain beginner-level courses are offered for free to attract new users and encourage platform sign-ups, other beginner courses — especially those in high-demand topics — are monetized at competitive entry-level prices. Intermediate and advanced courses are more consistently monetized via subscriptions and one-time purchase tiers. WhiteHat Academy's core revenue channels include paid enrollments, certification purchases, and B2B licensing to enterprise teams ( Buisiness-to-Business ).
 
-As competition in the digital learning space increases, WhiteHat is under strategic pressure to:
+As competition in the digital learning space increases, WhiteHat Academy is under strategic pressure to:
 
 - Optimize pricing and packaging for different course levels
 
@@ -54,13 +54,12 @@ This analysis uncovered critical patterns in learner behavior, content consumpti
 
 While most successful courses are either free or priced below $100, a substantial share of revenue potential lies in optimizing course length, packaging, and progression paths. Below is the overview page from the Tableau Dashboard and more examples are included throughout the report
 
+---
+<img width="1499" height="1199" alt="Image" src="https://github.com/user-attachments/assets/95ccc562-b761-48be-8e34-ee9f50fa4066" />
 
-https://github.com/ojiegbeprince/Course-Revenue-Optimization-Engagement-Analysis/blob/main/COURSE%20REVENUE%20OPTIMIZATION%20%26%20ENGAGEMENT%20ANALYSIS.twb
+Meanwhile, insights and recommendations are provided on the following key area as the findings suggest a clear opportunity for the business to;
 
-
-Insights and recommendations are provided on the following key area as the findings suggest a clear opportunity for the business to:
-
-### Expand beginner-focused funnels: 
+### 1. Expand beginner-focused funnels: 
 There is a strong demand for introductory contents (Beginner courses) and 80% of top 20 most popular courses are beginner-level. So, Creating more high-quality beginner courses and bundle them into learning paths to convert learners into long-term customers can help the WhiteHat as an EdTech company attract large enrollment. Also, the dataset shows that Beginner-level courses make up a large portion of:
 
 - Free courses (used as a lead generators in EdTech companiies).
@@ -97,18 +96,7 @@ This is a table comprising the top 20 courses
 |Learn and Understand AngularJS	|Beginner Level|	paid|		|7	|59361
 
 
-
-
-
-
-
-
-
-
-
-
-
-### Invest in intermediate-to-advanced content in popular subjects:
+### 2. Invest in intermediate-to-advanced content in popular subjects:
 From the dataset, it is observed that Intermediate and Expert courses are often paid. Subjects like Web Development and Graphic Design show high enrollment and engagement. However, there's an imbalance — not enough advanced content in high-demand areas know fully well that these courses offer higher perceived value. Users who complete beginner courses often look for more advanced content and Intermediate/expert learners are more likely to pay for upskilling. 
 
 Filling gaps in higher-level content within in-demand subjects allows WhiteHat Academy to capture a broader learner journey, increase lifetime value, and boost premium course sales.
@@ -116,7 +104,7 @@ Filling gaps in higher-level content within in-demand subjects allows WhiteHat A
 It also enables pathway building, where users can follow a structured learning plan from beginner to expert — an attractive feature for corporate learning and certifications.
 
 
- ### Better align pricing strategies with content length and learner expectations:
+ ### 3. Better align pricing strategies with content length and learner expectations:
 Analysis of this dataset shows that price does not always correlate logically with content duration or difficulty (Level). Some long or intermediate-level courses are underpriced or even free whereas others are short, beginner-level courses are overpriced for their value. Pricing should reflect not just duration, but value, subject matter, and level. Consider tiered pricing based on content length and depth.
 
 
