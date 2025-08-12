@@ -43,7 +43,20 @@ To support these goals, WhiteHat Academy relies on data analysts to unlock insig
 
 ### DATA STRUCTURE
 ---
-
+| Column Name           | Description |
+|-----------------------|-------------|
+| course_id             | Unique course identifier |
+| course_title          | Name/title of the course |
+| url                   | Web link to the course |
+| price                 | Enrollment fee |
+| num_subscribers       | Total student enrollments |
+| num_reviews           | Number of reviews received |
+| num_lectures          | Count of video modules |
+| level                 | Course difficulty (Beginner, All Levels, etc.) |
+| rating                | User rating (0 to 1 scale) |
+| content_duration      | Total hours of video content |
+| published_timestamp   | Date course was published |
+| subject               | Content category |
 
 
 ### EXECUTIVE SUMMARY
@@ -69,7 +82,7 @@ There is a strong demand for introductory contents (Beginner courses) and 80% of
 
 - Shorter content durations
 
-By optimizing and expanding beginner-level offerings (especially in popular subjects like Web Development and Business Finance), WhiteHat Academy can grow its user base (build brand trust), improve course completion rates, and upsell to premium paths.
+By optimizing and expanding beginner-level offerings ( especially in popular subjects like Web Development and Business Finance ), WhiteHat Academy can grow its user base ( build brand trust ), improve course completion rates, and upsell to premium paths.
 
 This is a table comprising the top 20 courses
 
@@ -129,7 +142,6 @@ Expert (premium pricing, maybe with certification)
 This would also benefit B2B (Business-to-Business) pricing models, where companies want to pay based on content depth and duration.
 
 
-An interactive dashboard can be downloaded [Here](https://public.tableau.com/authoring/CourseRevenueOptimizationEngagementAnalysis/Dashboard1#1)
 
 ### STEP 5. SHARE (INSIGHTS AND RECOMMENDATIONS)
 
