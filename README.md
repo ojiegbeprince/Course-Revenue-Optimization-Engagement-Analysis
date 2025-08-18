@@ -29,7 +29,7 @@ To support these goals, WhiteHat Academy relies on data analysts to unlock insig
 
 ### PROJECT QUESTIONS
 ---
-1. Which course subjects by level generate the highest engagement (by subscriber count)?
+1. Which course subjects generate the highest engagement (by subscriber count)?
 
 2. How do average price, content duration, and enrollment vary across subjects?
 
