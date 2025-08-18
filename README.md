@@ -43,7 +43,7 @@ To support these goals, WhiteHat Academy relies on data analysts to unlock insig
 
 ### DATA STRUCTURE
 ---
-| Column Name           | Description |
+| Data Structure        | Description |
 |-----------------------|-------------|
 | course_id             | Unique course identifier |
 | course_title          | Name/title of the course |
@@ -74,7 +74,7 @@ While most successful courses are either free or priced below $100, a substantia
 Meanwhile, insights and recommendations are provided on the following key area as the findings suggest a clear opportunity for the business to;
 
 ### 1. Expand beginner-focused funnels: 
-There is a strong demand for introductory contents (Beginner courses) and 80% of top 20 most popular courses are beginner-level. So, Creating more high-quality beginner courses and bundle them into learning paths to convert learners into long-term customers can help the WhiteHat as an EdTech company attract large enrollment. Also, the dataset shows that Beginner-level courses make up a large portion of:
+There is a strong demand for introductory contents (Beginner courses) and 80% of top 20 most popular courses are beginner-level. So, creating more high-quality beginner courses and bundle them into learning paths to convert learners into long-term customers can help the WhiteHat Acadeny as an EdTech company attract large enrollment. Also, the dataset shows that Beginner-level courses make up a large portion of:
 
 - Free courses (used as a lead generators in EdTech companiies).
 
