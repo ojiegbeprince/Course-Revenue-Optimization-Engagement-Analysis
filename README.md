@@ -77,6 +77,8 @@ DASHBOARD 1
 
 DASHBOARD
 ---
+<img width="1499" height="1199" alt="Image" src="https://github.com/user-attachments/assets/3d16ea45-9c87-411e-9cac-84bca07b4664" />
+
 Meanwhile, insights and recommendations are provided on the following key area as the findings suggest a clear opportunity for the business to;
 
 ### 1. Expand beginner-focused funnels: 
