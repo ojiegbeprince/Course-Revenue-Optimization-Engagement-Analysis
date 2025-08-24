@@ -94,9 +94,9 @@ By optimizing and expanding beginner-level offerings ( especially in popular sub
 
 This is a table comprising the top 20 courses
 
-| course_title	| level	| free_or_paid	| free_beginner_course	| content_durationn | num_subscribers
+| course_title	| level	| course_type	| free_beginner	| content_durationn | num_subscribers
 |---------------|-------|---------------|-----------------------|-------------------|----------------
-|Learn HTML5 Programming From Scratch	|Beginner Level	|free	|free beginner course	|10.5	|268923
+|Learn HTML5 Programming From Scratch	|Beginner Level	|free	|free beginner 	|10.5	|268923
 |Coding for Entrepreneurs Basic	|Expert Level	|free|		|3.5	|161029
 |The Web Developer Bootcamp	|Beginner Level|	paid|		|43	|121584
 |Build Your First Website in 1 Week with HTML5 and CSS3|	All Levels	|free|		|3	|120291
@@ -113,7 +113,7 @@ This is a table comprising the top 20 courses
 |HTML and CSS for Beginners - Build a Website & Launch ONLINE	|All Levels	|free|		|6	|70773
 |Become a Web Developer from Scratch	|All Levels	|paid|		|27.5	|69186
 |Bitcoin or How I Learned to Stop Worrying and Love Crypto	|All Levels	|free|		|8	|65576
-|Quickstart AngularJS	|Beginner Level	|free	|free beginner course|1.5	|64128
+|Quickstart AngularJS	|Beginner Level	|free	|free beginner |1.5	|64128
 |Learn Responsive Web Development from Scratch	|All Levels	|free|		|4.5	|59361
 |Learn and Understand AngularJS	|Beginner Level|	paid|		|7	|59361
 
