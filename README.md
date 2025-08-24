@@ -33,16 +33,17 @@ To support these goals, WhiteHat Academy relies on data analysts to unlock insig
 
 2. How do average price, content duration, and enrollment vary across subjects?
 
-3. What is the distribution of free vs paid courses by subject area and levels?
+3. What is the distribution of free vs paid courses by subjects area and levels?
 
 4. What are the average price points for web development courses by difficulty level?
    
-5. Which 20 courses are the most popular? What are their shared characteristics?
-   
-6. Does course duration have a measurable effect on course pricing?
+5. Does course duration have a measurable effect on course pricing?
  
-7. How are subscribers distributed across course levels?
+6. How are subscribers distributed across course levels?
 
+7. What are the free vs. paid patterns across different levels?
+
+8.  Which 20 courses are the most popular? What are their shared characteristics like course title, level, course type, free beginner, and content duration?
 
 ### DATA STRUCTURE
 ---
