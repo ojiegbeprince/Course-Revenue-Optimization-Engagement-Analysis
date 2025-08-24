@@ -72,7 +72,6 @@ This analysis uncovered critical patterns in learner behavior, content consumpti
 While most successful courses are either free or priced below $100, a substantial share of revenue potential lies in optimizing course length, packaging, and progression paths. Below is the overview page from the Tableau Dashboard and more examples are included throughout the report
 
 ---
-<img width="1499" height="1199" alt="Image" src="https://github.com/user-attachments/assets/95ccc562-b761-48be-8e34-ee9f50fa4066" />
 
 ---
 Meanwhile, insights and recommendations are provided on the following key area as the findings suggest a clear opportunity for the business to;
