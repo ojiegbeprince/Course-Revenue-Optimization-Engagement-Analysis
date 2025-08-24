@@ -75,7 +75,7 @@ DASHBOARD 1
 ---
 <img width="1499" height="1199" alt="Image" src="https://github.com/user-attachments/assets/6ede124c-7aea-4117-87f1-159234f17507" />
 
-DASHBOARD
+DASHBOARD 2
 ---
 <img width="1499" height="1199" alt="Image" src="https://github.com/user-attachments/assets/3d16ea45-9c87-411e-9cac-84bca07b4664" />
 
@@ -97,25 +97,25 @@ This is a table comprising the top 20 courses
 | course_title	| level	| course_type	| free_beginner	| content_durationn | num_subscribers
 |---------------|-------|---------------|-----------------------|-------------------|----------------
 |Learn HTML5 Programming From Scratch	|Beginner Level	|free	|free beginner 	|10.5	|268923
-|Coding for Entrepreneurs Basic	|Expert Level	|free|		|3.5	|161029
-|The Web Developer Bootcamp	|Beginner Level|	paid|		|43	|121584
-|Build Your First Website in 1 Week with HTML5 and CSS3|	All Levels	|free|		|3	|120291
-|The Complete Web Developer Course 2.0	|Beginner Level	|paid|		|30.5	|114512
-|Free Beginner Electric Guitar Lessons	|All Levels	|free|		|4.5	|101154
-|Web Design for Web Developers: Build Beautiful Websites!	|All Levels	|free|		|3	|98867
-|Learn Javascript & JQuery From Scratch	|All Levels	|paid|		|2	|84897
-|Practical PHP: Master the Basics and Code Dynamic Websites	|Intermediate Level	|free|		|6.5	|83737
-|JavaScript: Understanding the Weird Parts	|All Levels|	paid|		|11.5	|79612
-|Pianoforall - Incredible New Way To Learn Piano & Keyboard	|Beginner Level	|paid|		|30	|75499
-|Angular 4 (formerly Angular 2) - The Complete Guide	|Beginner Level	|paid|		|22	|73783
-|Beginner Photoshop to HTML5 and CSS3	|All Levels	|free|		|2	|73110
-|Web Development By Doing: HTML / CSS From Scratch	|All Levels	|free|		|1	|72932
-|HTML and CSS for Beginners - Build a Website & Launch ONLINE	|All Levels	|free|		|6	|70773
-|Become a Web Developer from Scratch	|All Levels	|paid|		|27.5	|69186
-|Bitcoin or How I Learned to Stop Worrying and Love Crypto	|All Levels	|free|		|8	|65576
+|Coding for Entrepreneurs Basic	|Expert Level	|free|	Null	|3.5	|161029
+|The Web Developer Bootcamp	|Beginner Level|	paid|	Null	|43	|121584
+|Build Your First Website in 1 Week with HTML5 and CSS3|	All Levels	|free|	Null	|3	|120291
+|The Complete Web Developer Course 2.0	|Beginner Level	|paid|	Null	|30.5	|114512
+|Free Beginner Electric Guitar Lessons	|All Levels	|free|	Null	|4.5	|101154
+|Web Design for Web Developers: Build Beautiful Websites!	|All Levels	|free|	Null	|3	|98867
+|Learn Javascript & JQuery From Scratch	|All Levels	|paid|	Null	|2	|84897
+|Practical PHP: Master the Basics and Code Dynamic Websites	|Intermediate Level	|free|	Null	|6.5	|83737
+|JavaScript: Understanding the Weird Parts	|All Levels|	paid|	Null	|11.5	|79612
+|Pianoforall - Incredible New Way To Learn Piano & Keyboard	|Beginner Level	|paid|	Null	|30	|75499
+|Angular 4 (formerly Angular 2) - The Complete Guide	|Beginner Level	|paid|	Null	|22	|73783
+|Beginner Photoshop to HTML5 and CSS3	|All Levels	|free|	Null	|2	|73110
+|Web Development By Doing: HTML / CSS From Scratch	|All Levels	|free|	Null	|1	|72932
+|HTML and CSS for Beginners - Build a Website & Launch ONLINE	|All Levels	|free|	Null	|6	|70773
+|Become a Web Developer from Scratch	|All Levels	|paid|	Null	|27.5	|69186
+|Bitcoin or How I Learned to Stop Worrying and Love Crypto	|All Levels	|free|	Null	|8	|65576
 |Quickstart AngularJS	|Beginner Level	|free	|free beginner |1.5	|64128
-|Learn Responsive Web Development from Scratch	|All Levels	|free|		|4.5	|59361
-|Learn and Understand AngularJS	|Beginner Level|	paid|		|7	|59361
+|Learn Responsive Web Development from Scratch	|All Levels	|free|	Null	|4.5	|59361
+|Learn and Understand AngularJS	|Beginner Level|	paid|	Null	|7	|59361
 
 
 ### 2. Invest in intermediate-to-advanced content in popular subjects:
