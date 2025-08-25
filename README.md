@@ -116,6 +116,7 @@ This is a table comprising the top 20 courses
 |Learn and Understand AngularJS	|Beginner Level|	paid|	Null	|7	|59361
 
 
+
 ### 2. Invest in intermediate-to-advanced content in popular subjects:
 From the dataset, it is observed that Intermediate and Expert courses are often paid. Subjects like Web Development and Graphic Design show high enrollment and engagement. However, there's an imbalance — not enough advanced content in high-demand areas know fully well that these courses offer higher perceived value. Users who complete beginner courses often look for more advanced content and Intermediate/expert learners are more likely to pay for upskilling. 
 
