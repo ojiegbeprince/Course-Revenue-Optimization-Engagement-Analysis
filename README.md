@@ -106,6 +106,10 @@ Filling gaps in higher-level content within in-demand subjects allows WhiteHat A
 
 It also enables pathway building, where users can follow a structured learning plan from beginner to expert — an attractive feature for corporate learning and certifications.
 
+
+<img width="510" height="317" alt="Image" src="https://github.com/user-attachments/assets/ec5ec82c-90b3-4b30-8ba9-042b4763dfd4" />
+
+
 This is a table comprising the top 20 courses
 
 | course_title	| level	| course_type	| free_beginner	| content_durationn | num_subscribers
