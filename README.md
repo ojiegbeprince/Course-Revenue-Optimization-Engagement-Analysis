@@ -147,6 +147,7 @@ Direct learners into Intermediate/Advanced pathways for higher lifetime value.
  ### 3. Better align pricing strategies with content length and learner expectations:
 Analysis of this dataset shows that price does not always correlate logically with content duration or difficulty (Level). Some long or intermediate-level courses are underpriced or even free whereas others are short, Beginner level courses are overpriced for their value. Pricing should reflect not just duration, but value, subject matter, and level. Consider tiered pricing based on content length and depth.
 
+<img width="1287" height="809" alt="Image" src="https://github.com/user-attachments/assets/5cde5b68-7203-4dc2-8c5e-342eec757e26" />
 
 ### Why It’s Highlighted: 
 - Inconsistent pricing damages user trust and conversion.
