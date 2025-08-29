@@ -100,7 +100,7 @@ All Level → Beginner → Intermediate → Advanced → Certification (monetiza
 <img width="1287" height="285" alt="Image" src="https://github.com/user-attachments/assets/befb1e50-27df-4733-9f0c-078101b8e0b2" />
 
 ### 2. Invest in intermediate-to-advanced content in popular subjects:
-From the dataset, it is observed that Intermediate and Expert courses are often paid. Subjects like Web Development and Graphic Design show high enrollment and engagement. However, there's an imbalance — not enough advanced content in high-demand areas know fully well that these courses offer higher perceived value. Users who complete beginner courses often look for more advanced content and Intermediate/expert learners are more likely to pay for upskilling. 
+From the dataset, it is observed that Intermediate and Expert courses are often paid. Subjects like Web Development and Business subjects show high enrollment and engagement. However, there's an imbalance — not enough advanced content in high-demand areas know fully well that these courses offer higher perceived value. Users who complete Beginner level courses in these areas often look for more advanced content and Intermediate/expert learners are more likely to pay for upskilling. 
 
 Filling gaps in higher-level content within in-demand subjects allows WhiteHat Academy to capture a broader learner journey, increase lifetime value, and boost premium course sales.
 
@@ -145,7 +145,7 @@ Use Top Beginner Courses as the free/low-cost hook.
 Direct learners into Intermediate/Advanced pathways for higher lifetime value.
 
  ### 3. Better align pricing strategies with content length and learner expectations:
-Analysis of this dataset shows that price does not always correlate logically with content duration or difficulty (Level). Some long or intermediate-level courses are underpriced or even free whereas others are short, beginner-level courses are overpriced for their value. Pricing should reflect not just duration, but value, subject matter, and level. Consider tiered pricing based on content length and depth.
+Analysis of this dataset shows that price does not always correlate logically with content duration or difficulty (Level). Some long or intermediate-level courses are underpriced or even free whereas others are short, Beginner level courses are overpriced for their value. Pricing should reflect not just duration, but value, subject matter, and level. Consider tiered pricing based on content length and depth.
 
 
 ### Why It’s Highlighted: 
