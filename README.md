@@ -80,15 +80,31 @@ DASHBOARD 2
 Meanwhile, insights and recommendations are provided on the following key area as the findings suggest a clear opportunity for the business to;
 
 ### 1. Expand beginner-focused funnels: 
-There is a strong demand for introductory contents (Beginner courses) and 80% of top 20 most popular courses are beginner-level. So, creating more high-quality beginner courses and bundle them into learning paths to convert learners into long-term customers can help the WhiteHat Acadeny as an EdTech company attract large enrollment. Also, the dataset shows that Beginner-level courses make up a large portion of:
+WhiteHat Academy, like most EdTech companies, faces the challenge of converting casual learners into paying, long-term users. The dataset shows that both All Level and Beginner Level courses dominate subscriber numbers, which makes them critical for expanding the entry funnel.
 
-- Free courses (used as a lead generators in EdTech companiies).
+All Level courses act as an entry gateway for the widest pool of learners which implies that; 
 
-- High-subscriber counts
+- All Level courses attract massive, diverse learners who are curious but not fully committed.
 
-- Shorter content durations
+- They function as lead magnets, reducing customer acquisition costs (CAC) by onboarding many learners at once for example; A free “All Level Web Development Basics” course draws in thousands of learners.
 
-By optimizing and expanding beginner-level offerings ( especially in popular subjects like Web Development and Business Finance ), WhiteHat Academy can grow its user base ( build brand trust ), improve course completion rates, and upsell to premium paths.
+Meanwhile, Beginner Level courses provide structured foundations and drive retention and monetization by
+
+- Transforming casual learners into serious learners by offering step-by-step guidance.
+
+- They improve retention since learners get value quickly and feel motivated to progress. For example; A learner who starts with an All Level “Introduction to Graphic Design” converts into a Beginner “Graphic Design Foundations” pathway.
+
+By aligning All Level (exploration) with Beginner (foundation building), WhiteHat Academy does not create a seamless learner journey:
+All Level → Beginner → Intermediate → Advanced → Certification (monetization) but also form a profitable, scalable strategy to expand the beginner funnel, reduce acquisition costs, and increase revenue per learner.
+
+<img width="1287" height="285" alt="Image" src="https://github.com/user-attachments/assets/befb1e50-27df-4733-9f0c-078101b8e0b2" />
+
+### 2. Invest in intermediate-to-advanced content in popular subjects:
+From the dataset, it is observed that Intermediate and Expert courses are often paid. Subjects like Web Development and Graphic Design show high enrollment and engagement. However, there's an imbalance — not enough advanced content in high-demand areas know fully well that these courses offer higher perceived value. Users who complete beginner courses often look for more advanced content and Intermediate/expert learners are more likely to pay for upskilling. 
+
+Filling gaps in higher-level content within in-demand subjects allows WhiteHat Academy to capture a broader learner journey, increase lifetime value, and boost premium course sales.
+
+It also enables pathway building, where users can follow a structured learning plan from beginner to expert — an attractive feature for corporate learning and certifications.
 
 This is a table comprising the top 20 courses
 
@@ -114,16 +130,6 @@ This is a table comprising the top 20 courses
 |Quickstart AngularJS	|Beginner Level	|free	|free beginner |1.5	|64128
 |Learn Responsive Web Development from Scratch	|All Levels	|free|	Null	|4.5	|59361
 |Learn and Understand AngularJS	|Beginner Level|	paid|	Null	|7	|59361
-
-
-
-### 2. Invest in intermediate-to-advanced content in popular subjects:
-From the dataset, it is observed that Intermediate and Expert courses are often paid. Subjects like Web Development and Graphic Design show high enrollment and engagement. However, there's an imbalance — not enough advanced content in high-demand areas know fully well that these courses offer higher perceived value. Users who complete beginner courses often look for more advanced content and Intermediate/expert learners are more likely to pay for upskilling. 
-
-Filling gaps in higher-level content within in-demand subjects allows WhiteHat Academy to capture a broader learner journey, increase lifetime value, and boost premium course sales.
-
-It also enables pathway building, where users can follow a structured learning plan from beginner to expert — an attractive feature for corporate learning and certifications.
-
 
  ### 3. Better align pricing strategies with content length and learner expectations:
 Analysis of this dataset shows that price does not always correlate logically with content duration or difficulty (Level). Some long or intermediate-level courses are underpriced or even free whereas others are short, beginner-level courses are overpriced for their value. Pricing should reflect not just duration, but value, subject matter, and level. Consider tiered pricing based on content length and depth.
