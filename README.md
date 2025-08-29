@@ -135,6 +135,9 @@ This is a table comprising the top 20 courses
 |Learn Responsive Web Development from Scratch	|All Levels	|free|	Null	|4.5	|59361
 |Learn and Understand AngularJS	|Beginner Level|	paid|	Null	|7	|59361
 
+
+
+
 In addition, the Top 20 Courses directly supports the “Invest in Intermediate-to-Advanced content” insight — because it confirms the dominance of Beginner level and All level courses in attracting mass users, while signaling the need to push more intermediate/advanced courses into the top tier for sustainable revenue. This creates a two-tier strategy:
 
 Use Top Beginner Courses as the free/low-cost hook.
