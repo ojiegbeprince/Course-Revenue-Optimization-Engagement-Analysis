@@ -168,33 +168,20 @@ Expert (premium pricing, maybe with certification)
 
 This would also benefit B2B (Business-to-Business) pricing models, where companies want to pay based on content depth and duration.
 
-
-
-### STEP 5. SHARE (INSIGHTS AND RECOMMENDATIONS)
-
-Suggest strategies and actions based on insights to guide stakeholders which includes the following;
-
-##### INSIGHTS
-
- 1. **Subscriber Distribution by Subject**: The Web Development has the most number of subscribers. Almost 67% if you calculate that. Followed by Business Finance. The number of subscribers for the other two subjects is significantly lower compared to Web Development. These subjects have high demand — ideal for launching new courses or premium content
-
- 2. **Average Price, Duration & Student Count by Subject**: Web Development may command higher prices and longer durations. Use this to benchmark pricing strategies per subject. Business Finance courses might be shorter but attract large enrollments due to accessibility as it comparably matches the Web Development returns. Consider offering micro-courses in low-duration categories that still yield high value.
-
- 3. **Does Course Duration Impact Price?**
-There may be a moderate positive correlation: longer courses may charge higher prices, but not always. Pricing should reflect not just duration, but value, subject matter, and level. Consider tiered pricing based on content length and depth.
     
-##### RECOMMENDATIONS
-
- - Increasing advanced-level content in top-performing subjects.
+### RECOMMENDATIONS
+Based on the insights uncovered, the following recommendations have been provided:
 
 - Bundling free beginner courses with paid follow-ups.
 
+- Increasing advanced-level content in top-performing subjects.
+  
 - Pricing optimization based on course length and subject category.
 
-- Promoting shorter-duration, highly-rated beginner content to boost enrollments.
+ Re-align pricing with course length and perceived value. Short courses should be priced competitively (or free as lead magnets), while longer, skill-intensive courses should justify premium pricing. This ensures pricing signals quality and value, boosting profitability.
 
 
-
+WhiteHat Academy’s growth lies in funnel optimization: using Beginner + All Level courses to capture mass audiences, while strategically investing in Intermediate/Advanced courses in popular subjects (Web Dev & Business) for monetization. Aligning pricing with course duration and level ensures profitability, while leveraging insights from the Top 20 courses provides evidence of learner pathways and preferences.
 
 
 
