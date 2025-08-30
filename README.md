@@ -181,7 +181,7 @@ Based on the insights uncovered, the following recommendations have been provide
  Re-align pricing with course length and perceived value. Short courses should be priced competitively (or free as lead magnets), while longer, skill-intensive courses should justify premium pricing. This ensures pricing signals quality and value, boosting profitability.
 
 
-WhiteHat Academy’s growth lies in funnel optimization: using Beginner + All Level courses to capture mass audiences, while strategically investing in Intermediate/Advanced courses in popular subjects (Web Dev & Business) for monetization. Aligning pricing with course duration and level ensures profitability, while leveraging insights from the Top 20 courses provides evidence of learner pathways and preferences.
+WhiteHat Academy’s growth lies in funnel optimization: using Beginner + All Level courses to capture mass audiences, while strategically investing in Intermediate/Advanced courses in popular subjects (Web Dev & Business) alongside the Top 20 courses for monetization. Aligning pricing with course duration and level ensures profitability, while leveraging insights from the Top 20 courses provides evidence of learner pathways and preferences.
 
 
 
